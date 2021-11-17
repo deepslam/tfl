@@ -1,0 +1,10 @@
+.Root {
+  display: flex;
+  flex-direction: row;
+}
+
+.Icon {
+  width: 16px;
+  height: 16px;
+  padding: 2px;
+}
